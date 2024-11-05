@@ -14,7 +14,7 @@
 This project analyses sales data to uncover factors impacting product performance and revenue growth. Excel, SQL and Power BI were used for this analysis to provide actionable insights on product positioning for the sales team
 
 ### Data Sources
-- Source: Incubator Hub Data Analysis Project Sales data [Here]()
+- Source: Incubator Hub Data Analysis Project Sales data [Here](https://canvas.instructure.com/files/273182802/download?download_frd=1)
 - Description: Contains transaction details of customers from January 2023 to August 2024, with 9921 records across 7 columns (+ total revenue = 8).
 
 ### Tools and Technologies Used
@@ -132,10 +132,13 @@ The month with the highest revenue of 546,300 and the highest quantity sold of 9
 - Southern region generated the most revenue of 927,820 having been the hub of sales of shoes, gloves and socks. East with a revenue of 485,925 came second for the sales of shoes, shirts, hats and jackets. Shirts, hats and jackets were sold in the north to generate 387,000 in revenue while west generated the least of 300,345 for the sales of shoes, hats, gloves and socks. 
 
  ### Visualizations
+ ![Sales_BI_1](https://github.com/user-attachments/assets/90e7321a-43d5-45dd-a7f7-f870f0a1a3e3)
 ![Sales_BI_2](https://github.com/user-attachments/assets/fac3d4b2-4ef5-4047-b814-a93c047ba273)
-![Sales_BI_1](https://github.com/user-attachments/assets/90e7321a-43d5-45dd-a7f7-f870f0a1a3e3)
+
 
 - The dashboard includes key metrics like total revenue, total orders, total quantity sold, top products by revenue and by quantity, regional sales, yearly, quarterly and monthly distribution of revenue and quantity.
 
 ### Conclusions and Insights
 - The analysis revealed shoe as the top product by revenue generated and hat by the quantity sold. The south had both the highest revenue and quantity sold for the sale of 3 products – shoes, gloves and socks. 
+
+#### Check excel and SQL file attached for further insights like filters and query result. Power BI cannot be attached as a link as the application doesn't accept personal mail but require a work email which I do not possess.
