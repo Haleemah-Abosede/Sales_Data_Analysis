@@ -11,7 +11,7 @@
 
 
 ### Overview
-This project analyses sales data to uncover factors impacting product performance and revenue growth. Excel, SQL and Power BI were used for this analysis to provide actionable insights on product positioning for the sales team
+This project analyses sales data to uncover factors impacting product performance and revenue growth. The sales performance of a retail store was analyzed and explored to uncover key insights such as top-selling products, regional performance, and monthly sales trends. Excel, SQL and Power BI were used for this analysis to provide actionable insights on product positioning for the sales team
 
 ### Data Sources
 - Source: Incubator Hub Data Analysis Project Sales data [Here](https://canvas.instructure.com/files/273182802/download?download_frd=1)
