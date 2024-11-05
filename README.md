@@ -142,3 +142,8 @@ The month with the highest revenue of 546,300 and the highest quantity sold of 9
 - The analysis revealed shoe as the top product by revenue generated and hat by the quantity sold. The south had both the highest revenue and quantity sold for the sale of 3 products – shoes, gloves and socks. 
 
 #### Check excel and SQL file attached for further insights like filters and query result. Power BI cannot be attached as a link as the application doesn't accept personal mail but require a work email which I do not possess.
+
+
+### Link to Customer Data Repository: [click here](https://github.com/Haleemah-Abosede/Customers_Data_Analysis/tree/main)
+
+
